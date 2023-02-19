@@ -69,8 +69,6 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 
 - Completed Activity/Fixed Bug
 - Create LICENSE
-- -
-- -
 - adding login form to starter code
 - added current user context
 - Reverted oops
@@ -81,7 +79,5 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 - updated ReadMe.md
 - added nested author support
 - bugfixes, added nested comment.author support
-- -
-- -
 - in progress
 - in progress
